@@ -1,37 +1,32 @@
 
-Strut
-=======
-
-[![Facelift](https://f.cloud.github.com/assets/1009003/515405/f1003c6a-be74-11e2-84b9-14776c652afb.png)](http://strut.io)
+Strut - 高逼格的演讲稿程序
+=================
 
 
-#### 一个使用impress.js和Bespoke.js开发的GUI创作工具 ####
+![创建演讲稿](https://ooo.0o0.ooo/2017/10/20/59e9ad8aaf8e7.png)
+![预览演讲稿](https://i.loli.net/2017/10/20/59e9ad8be72c2.png)
 
-不知道ImpressJS是什么？看看impressjs的demo：http://bartaz.github.com/impress.js/#/bored
+#### 一个使用 `impress.js` 和 `Bespoke.js` 开发的GUI创作工具
 
-### 开始使用Strut! http://strut.io/editor/
+不知道 `ImpressJS` 是什么？看看 `impressjs` 的demo：http://bartaz.github.com/impress.js/#/bored
+
+### 开始使用Strut!
+
+- [官方站点, 不维护](http://strut.io/editor)
+- [中文站点](https://strut.biezhi.me)
+
 (支持IE10，Firefox，Chrome和Safari)
-
-### 官方网站: http://strut.io ###
 
 #### 学习关于使用Strut(以下链接需翻墙)
 
 * http://www.youtube.com/watch?v=TTpiDXEIulg
 * 旧的视频: http://www.youtube.com/watch?v=zA5s8wwme44
 
-
-### Twitter: [@StrutPresents](https://twitter.com/strutpresents)
-
-
-### 邮件列表 ###
-
-strut-presentation-editor@googlegroups.com
-
-### 开发/构建 ###
+### 开发/构建
 
 构建你自己的版本的需要Gruntv0.4.0＋。
 
-1. 安装grunt `npm install -g grunt-cli`
+1. 安装 grunt `npm install -g grunt-cli`
 2. 克隆Strut：`git clone https://github.com/biezhi/Strut-cn`
 3. `cd Strut-cn`
 4. 安装依赖：`npm install`
