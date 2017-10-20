@@ -2,9 +2,17 @@
 Strut - 高逼格的演讲稿程序
 =================
 
+Strut 是 Facebook 的一位大牛在 2012 年开发的一款在线创建演讲稿程序，
+目前好像已经不维护了，我修改了中文版本并修复了 `imgur` 上传失败的 bug。
+
+**创建演讲稿**
+
+![预览演讲稿](https://i.loli.net/2017/10/20/59e9ad8be72c2.png)
+
+**预览图**
 
 ![创建演讲稿](https://ooo.0o0.ooo/2017/10/20/59e9ad8aaf8e7.png)
-![预览演讲稿](https://i.loli.net/2017/10/20/59e9ad8be72c2.png)
+
 
 #### 一个使用 `impress.js` 和 `Bespoke.js` 开发的GUI创作工具
 
